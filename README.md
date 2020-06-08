@@ -12,3 +12,6 @@ This work is based on [covid-cxr](https://github.com/aildnont/covid-cxr).
 
 Best model
 https://github.com/deadskull7/Pneumonia-Diagnosis-using-XRays-96-percent-Recall/blob/master/Transfer%20Learning%20via%20InceptionV3.ipynb
+
+Covid-net
+https://arxiv.org/pdf/2003.09871.pdf 
