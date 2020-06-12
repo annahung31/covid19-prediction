@@ -1,0 +1,6 @@
+tensorflow 1.15
+opencv-python
+Python 3.6
+Numpy
+Scikit-Learn
+Matplotlib
